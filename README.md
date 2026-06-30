@@ -2,6 +2,8 @@
 
 A privacy-first SwiftUI sound level meter that estimates environmental volume from the iPhone microphone.
 
+![Decibel Meter app icon](Artwork/AppIconMaster.png)
+
 ## Features
 
 - Live estimated sound level with peak and running average
@@ -43,6 +45,7 @@ Microphone samples are analyzed in memory and immediately discarded. Only sessio
 - `Services/` — microphone capture and sound-level calculation
 - `Shared/` — formatting helpers
 - `Supporting/` — app metadata, assets, and privacy manifest
+- `Artwork/` — production app-icon master artwork
 - `DecibelMeterTests/` — calculation and classification unit tests
 
 ## License
