@@ -6,6 +6,7 @@
     Title="Decibel Meter"
     Width="800"
     Height="800"
+    Icon="Assets/DecibelMeter.ico"
     Background="White"
     WindowStartupLocation="CenterScreen">
     <Grid>
